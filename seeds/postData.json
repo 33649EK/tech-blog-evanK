@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Authentication vs Authorization",
+    "content": "There is a difference between authentication and authorization. Authentication is the process of verifying who you are. Authorization is the process of verifying what you have access to. Authentication always comes before authorization. You must prove who you are before you can be authorized to access the resources you are trying to access." 
+  },
+  {
+    "title": "Why MVC is so important",
+    "content": "MVC is a design pattern that separates the application into three main components: Model, View, and Controller. The Model is the data layer, the View is the presentation layer, and the Controller is the logic layer. This separation of concerns makes the application easier to maintain and test. It also makes the application more scalable and flexible. MVC is so important because it helps developers write clean, maintainable, and testable code."
+  },
+  {
+    "title": "Why are there so many databases?",
+    "content": "Different databases are designed to solve different problems. Some databases are designed for speed, some are designed for scalability, some are designed for reliability, and some are designed for flexibility. No single database can solve all of these problems at once, so there are many different databases to choose from. The best database for your application depends on your specific needs and requirements. It is important to choose the right database for your application to ensure that it performs well and meets your needs."
+  }
+]
